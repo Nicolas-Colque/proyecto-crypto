@@ -1,0 +1,4 @@
+from binance.client import Client
+client = Client("W5p8RIjZlWWWkTF3XTpAw4xxWcc1nbCZdrl1Kcwjt7WGIId5hvpuVHpq7YF4WcDO","0i5QafRamaUrptE0TqaddIvYgTOVumDRD3yCBsUJo2OFtcbQRsdlDgralR67n2w4")
+
+ 
